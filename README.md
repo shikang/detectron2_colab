@@ -1,1 +1,1 @@
-# detectron2_playground
+# Detectron2 Colab Notebook
